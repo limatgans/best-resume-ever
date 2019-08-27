@@ -1,64 +1,59 @@
 /* #*/ export const PERSON = `
 name:
-  first: John
+  first: Ganesh
   middle:
-  last: Doe
-about: Hi, my name is John Doe. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+  last: M
+about: Over an year experience in Full Stack Development, I had worked across multiple projects in AGILE Process.
+      Looking for career/prospectus to develop my skills further.
 position: Software Developer
 
 birth:
-  year: 1990
-  location: New York
+  year: 1995
+  location: Chennai, TamilNadu
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
+- company: Think 42 Labs
+  position: Software Engineer 
+  timeperiod: since February 12, 2019
+  description: Full Stack Developer. Worked on Several Projects such as Motorq, Rakuten Portal under AGILE process.
+  # website: https://example.com
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: Analytic Brains Technologies
+  position: Programmer 
+  timeperiod: April 12, 2018 - January 8, 2019
+  description: MEAN Stack Developer. Worked on MEAN Stack Development of Admin Module in Gobiom Project.
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: Zoho Technologies
+  position: Intern
+  timeperiod: February - March 2018
+  description: Got introduced to AngularJs and Cassandra.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: Bachelor of Technology
+  timeperiod: May 2012 - May 2017
+  description: Major in Computer Science Engineering, Shiv Nadar University, Noida, India.
 
 # skill level goes 0 to 100
 skills:
 - name: HTML5
-  level: 99
+  level: 40
 - name: CSS3
-  level: 95
+  level: 40
 - name: JavaScript
-  level: 97
+  level: 70
 - name: Node.js
-  level: 93
-- name: Angular 2
+  level: 70
+- name: Angular 2+
   level: 60
 - name: TypeScript
-  level: 80
-- name: ES.Next
   level: 70
-- name: Docker
-  level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
+- name: MongoDb
+  level: 40
+- name: Postgres SQL
+  level: 40
+# knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
+#   (English and Klingon).
 
 projects:
 - name: best-resume-ever
@@ -67,12 +62,12 @@ projects:
   url: https://github.com/salomonelli/best-resume-ever
 
 hobbies:
-- name: Video Games
-  iconClass: fa fa-gamepad
-  url: https://example.com
+- name: Electronic / Ambient Music Composition
+  iconClass: fa fa-music
+  url: https://sgathomas.bandcamp.com
 
-- name: Drawing
-  iconClass: fa fa-pencil
+- name: Short Films / Vlog / Photography
+  iconClass: fa fa-camera
   url: https://example.com
 
 contributions:
@@ -81,12 +76,12 @@ contributions:
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: limatgans@gmail.com
+  phone: +91-9003534323
+  # street: 1234 Broadway
+  city: Chennai
+  # website: johndoe.com
+  github: limatgans
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
 lang: en
 `
