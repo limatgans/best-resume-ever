@@ -51,3 +51,8 @@ footer {
     margin-right: auto;
     margin-left: 1.5em;
 }
+
+.pdf-display {
+    width: 100vw;
+    height: 90vh;
+}
