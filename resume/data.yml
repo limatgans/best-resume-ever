@@ -56,10 +56,15 @@ skills:
 #   (English and Klingon).
 
 projects:
-- name: best-resume-ever
-  platform: Vue
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: Tasker 
+  platform: Angular
+  description: A Simple To Do App using local storage
+  url: https://github.com/limatgans/tasker
+
+- name: Using-Git 
+  platform: MarkDown
+  description: A Documentation on Git for Beginners
+  url:   https://github.com/limatgans/using-git
 
 hobbies:
 - name: Electronic / Ambient Music Composition
@@ -68,12 +73,13 @@ hobbies:
 
 - name: Short Films / Vlog / Photography
   iconClass: fa fa-camera
-  url: https://example.com
+  url: https://www.youtube.com/ganeshgansm
 
 contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: CommonUnits/Time 
+  platform: JS
+  description: An Firefox Extension for Displaying Time in Common Units
+  url: https://github.com/commonunits/time
 
 contact:
   email: limatgans@gmail.com
