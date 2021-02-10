@@ -3,8 +3,8 @@ name:
   first: Ganesh
   middle:
   last: M
-about: Over an year experience in Full Stack Development, I had worked across multiple projects in AGILE Process.
-      Looking for career/prospectus to develop my skills further.
+about: 2.5+ years experience in Full Stack Development. 
+      Looking for a career/prospectus to develop my skills further.
 position: Software Developer
 
 birth:
@@ -15,18 +15,21 @@ experience:
 - company: Think 42 Labs
   position: Software Engineer 
   timeperiod: since February 12, 2019
-  description: Full Stack Developer. Worked on Several Projects such as Motorq, Rakuten Portal under AGILE process.
-  # website: https://example.com
+  description: Full Stack Developer. Worked on Several Projects such as Motorq, Rakuten Portal, Rizek, PappayaSign under AGILE process.
+  website: https://www.think42labs.com/
 
 - company: Analytic Brains Technologies
   position: Programmer 
   timeperiod: April 12, 2018 - January 8, 2019
-  description: MEAN Stack Developer. Worked on MEAN Stack Development of Admin Module in Gobiom Project.
+  description: MEAN Stack Developer. Worked on Admin Module of Gobiom Project.
+  website: http://analyticbrains.com/
 
 - company: Zoho Technologies
   position: Intern
   timeperiod: February - March 2018
   description: Got introduced to AngularJs and Cassandra.
+  website: https://www.zoho.com/
+
 
 education:
 
@@ -36,22 +39,24 @@ education:
 
 # skill level goes 0 to 100
 skills:
-- name: HTML5
-  level: 40
-- name: CSS3
-  level: 40
 - name: JavaScript
   level: 70
 - name: Node.js
   level: 70
-- name: Angular 2+
+- name: React
   level: 60
+- name: Angular 2+
+  level: 50
 - name: TypeScript
   level: 70
 - name: MongoDb
   level: 40
 - name: Postgres SQL
   level: 40
+# - name: HTML5
+#   level: 40
+# - name: CSS3
+#   level: 40
 # knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
 #   (English and Klingon).
 
@@ -78,7 +83,7 @@ hobbies:
 contributions:
 - name: CommonUnits/Time 
   platform: JS
-  description: An Firefox Extension for Displaying Time in Common Units
+  description: A Firefox Extension for Displaying Time in Common Units
   url: https://github.com/commonunits/time
 
 contact:
@@ -86,7 +91,7 @@ contact:
   phone: +91-9003534323
   # street: 1234 Broadway
   city: Chennai
-  # website: johndoe.com
+  website: https://limatgans.github.io
   github: limatgans
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
 lang: en
